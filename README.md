@@ -1,1 +1,1 @@
-# CMAKE_C-
+cmake connect with c++ and opencv
